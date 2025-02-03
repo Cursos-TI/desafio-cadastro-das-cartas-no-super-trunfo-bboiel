@@ -16,18 +16,17 @@ int main(){
     printf("Jogo Super Trunfo Tema: Países\n");
     printf("Cidade C01\n");
 
-
-    printf("Pontos Turísticos\n");
+    printf("Digite os pontos turísticos\n");
 // Utilizo Scanf pra scanear a resposta dada.
     scanf("%d", &turista);
 
-    printf("Código de Área\n");
+    printf("Digite o código de Área\n");
     scanf("%d", &cod);
    
-    printf("Pib da Cidade\n");
+    printf("Digite o pib da Cidade\n");
     scanf("%f", &pib);
 
-    printf("População da cidade\n");
+    printf("Digite a população da cidade\n");
     scanf("%f", &pop);
 
     printf("Pontos Turísticos: %d\n", turista);
@@ -39,16 +38,16 @@ int main(){
     printf("Cidade C02\n");
 
 
-    printf("Pontos Turísticos\n");
+    printf("Digite os pontos turísticos\n");
     scanf("%d", &turista);
 
-    printf("Código de Área\n");
+    printf("Digite o código de Área\n");
     scanf("%d", &cod);
    
-    printf("Pib da Cidade\n");
+    printf("Digite o pib da Cidade\n");
     scanf("%f", &pib);
 
-    printf("População da cidade\n");
+    printf("Digite a população da cidade\n");
     scanf("%f", &pop);
 
     printf("Pontos Turísticos: %d\n", turista);
@@ -60,16 +59,16 @@ int main(){
     printf("Cidade C03\n");
 
 
-    printf("Pontos Turísticos\n");
+    printf("Digite os pontos turísticos\n");
     scanf("%d", &turista);
 
-    printf("Código de Área\n");
+    printf("Digite o código de Área\n");
     scanf("%d", &cod);
    
-    printf("Pib da Cidade\n");
+    printf("Digite o pib da Cidade\n");
     scanf("%f", &pib);
 
-    printf("População da cidade\n");
+    printf("Digite a população da cidade\n");
     scanf("%f", &pop);
 
     printf("Pontos Turísticos: %d\n", turista);
@@ -81,22 +80,24 @@ int main(){
     printf("Cidade C04\n");
 
 
-    printf("Pontos Turísticos\n");
+    printf("Digite os pontos turísticos\n");
     scanf("%d", &turista);
 
-    printf("Código de Área\n");
+    printf("Digite o código de Área\n");
     scanf("%d", &cod);
    
-    printf("Pib da Cidade\n");
+    printf("Digite o pib da Cidade\n");
     scanf("%f", &pib);
 
-    printf("População da cidade\n");
+    printf("Digite a população da cidade\n");
     scanf("%f", &pop);
 
     printf("Pontos Turísticos: %d\n", turista);
     printf("Código de Área: %d\n", cod);
     printf("Pib da Cidade: %f\n", pib);
     printf("População da cidade: %f\n", pop);
+
+  
 // Utilizo o return 0; pra encerrar o código e voltar pro começo.
     return 0;
 
